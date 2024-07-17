@@ -1,1 +1,1 @@
-# SmartCash-ATM
+The Bank ATM System project in Java simulates basic ATM functionalities such as account balance inquiries, withdrawals, deposits, and fund transfers. It includes user authentication, transaction management, and error handling to provide a secure and efficient banking experience.
